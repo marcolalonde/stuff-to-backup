@@ -1,0 +1,82 @@
+Altair Feko - Solver (par) Version 2019.3-660 from 2020-02-04
+          Altair Feko - PREFEKO Version 2019.3-64 from 2020-01-22 [FEK: default 171; used 171] BINARY
+          CADFEKO version 2019.3-365937 (x64) from 2020-02-05
+          Copyright (c) 1999-2014 Altair Development S.A. (Pty) Ltd
+          Copyright (c) 2014-2020 Altair Engineering, Inc.
+          Intel(R) MKL version 2018.0.4 (build 20180808) on Intel(R) Advanced Vector Extensions 2 (Intel(R) AVX2) enabled processors, Intel(R) 64 architecture (1 thread)
+Computer: PC WIN64 EM64T MKL IMPI -- TheHeartofGold
+          Microsoft Windows 10 vNEXT  (Build 22000), Version 10.0.22000 x64 (SP 0.0)
+          Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz; GenuineIntel family 6 model 14 stepping 10 brand id 0
+          1 physical CPU with a total of 12 processors found (multi-core CPU with max. 6 cores per physical CPU)
+Threads:  OpenMP threading not used
+Date:     2021-11-19 19:29:03                     
+File:     915 ceramic patch
+Memory:   Unlimited, system allows maximum usage of 2.590 GByte
+          (for parallel runs memory limit is per process)
+          (installed memory 15.734 GByte, thereof free 5.449 GByte)
+MD5 Check:9E2BB38D60226A2CC1890B24DA57F75F
+MD5 Total:A2F61C494832B5A60F4238EA7D2184E1
+ Licence:  Altair HyperWorks
+
+Number of parallel processes:     6 on 1 CPUs
+
+Master process    0 on machine: TheHeartofGold                 using 1 threads
+Server process    1 on machine: TheHeartofGold                 using 1 threads
+Server process    2 on machine: TheHeartofGold                 using 1 threads
+Server process    3 on machine: TheHeartofGold                 using 1 threads
+Server process    4 on machine: TheHeartofGold                 using 1 threads
+Server process    5 on machine: TheHeartofGold                 using 1 threads
+
+
+Spice Engine:  HyperSpice Version 2019-35690 from 2019-10-02
+
+          Surface of all triangles in m*m:     1.25110E-02
+
+ Half basis functions have been set up at 1 boundary edges (microstrip edge ports to be loaded/excited).
+
+ Triangle 85 is defined inside material region Free space.
+ Based on the immediate environment of triangle 85 and the definition of triangle 155,
+ triangle 85 is expected to be defined in region Ceramic_A35.
+ ERROR    3849: Wrong specification of the medium for a metallic triangle
+
+Aborted: 2021-11-19 19:29:03                     
+ 
+ 
+  Triangle 86 is defined inside material region Free space.
+  Triangle 81 is defined inside material region Free space.
+ 
+  Triangle 82 is defined inside material region Free space.
+  Based on the immediate environment of triangle 82 and the definition of triangle 155,
+  Based on the immediate environment of triangle 86 and the definition of triangle 155,
+  Based on the immediate environment of triangle 81 and the definition of triangle 157,
+  triangle 82 is expected to be defined in region Ceramic_A35.
+  triangle 81 is expected to be defined in region Ceramic_A35.
+  triangle 86 is expected to be defined in region Ceramic_A35.
+ 
+ 
+  Triangle 84 is defined inside material region Free space.
+  Triangle 83 is defined inside material region Free space.
+  Based on the immediate environment of triangle 83 and the definition of triangle 155,
+  Based on the immediate environment of triangle 84 and the definition of triangle 155,
+  triangle 83 is expected to be defined in region Ceramic_A35.
+  triangle 84 is expected to be defined in region Ceramic_A35.
+Received message from server process  2: 
+ ERROR    3849: Wrong specification of the medium for a metallic triangle
+
+Aborted: 2021-11-19 19:29:03                     
+Received message from server process  1: 
+ ERROR    3849: Wrong specification of the medium for a metallic triangle
+
+Aborted: 2021-11-19 19:29:04                     
+Received message from server process  3: 
+ ERROR    3849: Wrong specification of the medium for a metallic triangle
+
+Aborted: 2021-11-19 19:29:04                     
+Received message from server process  5: 
+ ERROR    3849: Wrong specification of the medium for a metallic triangle
+
+Aborted: 2021-11-19 19:29:04                     
+Received message from server process  4: 
+ ERROR    3849: Wrong specification of the medium for a metallic triangle
+
+Aborted: 2021-11-19 19:29:04                     
