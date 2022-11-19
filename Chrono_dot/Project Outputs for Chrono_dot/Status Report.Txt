@@ -1,0 +1,21 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [Chrono_dot.PcbDoc]
+   Generated File[Chrono_dot.GTO]
+   Generated File[Chrono_dot.GTP]
+   Generated File[Chrono_dot.GTS]
+   Generated File[Chrono_dot.GTL]
+   Generated File[Chrono_dot.GBL]
+   Generated File[Chrono_dot.GBS]
+   Generated File[Chrono_dot.GBP]
+   Generated File[Chrono_dot.GBO]
+   Generated File[Chrono_dot.GM2]
+   Generated File[Chrono_dot.RUL]
+   Generated File[Chrono_dot.EXTREP]
+   Generated File[Chrono_dot.REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 3:21:08 PM On 2/15/2022

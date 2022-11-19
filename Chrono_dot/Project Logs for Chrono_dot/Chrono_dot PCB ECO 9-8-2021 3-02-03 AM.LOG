@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=J1 Old Footprint=Ribbon6 New Footprint=Ribbon62
+Added Member To Class: ClassName=Chrono_dot Member=Component R2 Res1
+Added Room: Name=Chrono_dot
